@@ -192,3 +192,6 @@ body{
     padding-top: 15px;
     cursor: pointer;
 }
+#counter{
+    font-size: 30px;
+}

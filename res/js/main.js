@@ -38,7 +38,7 @@ let meat = 0;
 let burgir = 0;
 let randomZakos = 0;
 let randomObjednavka = 0;
-let happy = 5;
+let happy = 0;
 
 odha.onclick = () => {
   check3 = false;
