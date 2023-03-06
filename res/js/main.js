@@ -273,7 +273,7 @@ serve.onclick = () => {
     zakos[randomZakos].style.display = "block";
     objednavka.innerHTML = `Klik me`
     if(happy < 0){
-        alert("bankrot kokote kys");
+        alert("bankrot kys");
         window.close();
     }
   }
